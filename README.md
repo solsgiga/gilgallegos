@@ -1,5 +1,5 @@
 # Gil Gallegos (WIP)
-- 6 years experience of industry designing and deploying machine learning pipelines, data platforms, optimization systems in the private sector.
+- 6 years experience designing and deploying machine learning pipelines, data platforms, optimization systems in the private sector.
 
 ### 🛠 Skills & Technologie
 - **Languages**: Python, SQL
@@ -13,14 +13,14 @@
 
 ### 🚀 Selected Projects
 
-- **[Project Name]** – Short description (1 line) + link  
-- **[Project Name]** – Short description + link  
-- **[Project Name]** – Short description + link
+- **[Project Name]** – Short description 
+- **[Project Name]** – Short description 
+
 
 ### 📚 Publications
 
-- Paper Title (Conference/Journal, Year) – [link]
-- Paper Title (Conference/Journal, Year) – [link]
+- Paper Title 
+- Paper Title 
 
 
 ### 🎓 Education
@@ -30,7 +30,7 @@
 
 ### 📫 Get in touch
 
-- LinkedIn: [your LinkedIn URL]
-- Email: your.email@domain.com
-- Personal website: [optional]
+- LinkedIn: [LinkedIn URL]
+- Email: email@domain.com
+- Personal website:
 ---
