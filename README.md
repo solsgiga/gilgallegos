@@ -29,7 +29,6 @@
 
 ### 📫 Get in touch
 
-- LinkedIn: [LinkedIn URL]
-- Email: email@domain.com
-- Personal website:
+- LinkedIn: [www.linkedin.com/in/gil-g-a7703237a]
+- Email: solsgiga@gmail.com
 ---
