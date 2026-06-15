@@ -25,7 +25,7 @@
 
 - **PhD. in Mathematical Sciences** – Queen Mary, University of London
 - **M.Sc. in Astronomy** – UnInstitute of Astronomy, National Autonomous University of Mexico
-- **B.Sc. in Applied Mathematics ** - Autonomous University of Baja California
+- **B.Sc. in Applied Mathematics** - Autonomous University of Baja California
 
 ### 📫 Get in touch
 
